@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: oauthio.api.streamdata.gallery
+title: Streamdata Gallery OAuth.io
+url: oauthio.streamdata.gallery
 tag: OAuth.io
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: oauthio
 github_branch: master
 collections:
